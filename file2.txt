@@ -1,1 +1,3 @@
 Dit is file 2
+
+Dit is een wijziging in file 2
